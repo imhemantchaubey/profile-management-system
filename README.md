@@ -3,17 +3,17 @@
 
 # <img src="https://cdn.pixabay.com/photo/2020/07/14/13/07/icon-5404125_1280.png" width="25"> Profile Management System
 
-# 📌Home page:
+### 📌Home page:
 <img src="res/home.gif" width="100%">
 
-# 📌Login page:
+### 📌Login page:
 <img src="res/login.gif" width="100%">
 
-# 📌Register page:
+### 📌Register page:
 <img src="res/register.gif" width="100%">
 
-# 📌Update Profile page:
+### 📌Update Profile page:
 <img src="res/update.gif" width="100%">
 
-# 📌Database:
+### 📌Database:
 <img src="res/database.gif" width="100%">

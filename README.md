@@ -3,6 +3,8 @@
 
 # <img src="https://cdn.pixabay.com/photo/2020/07/14/13/07/icon-5404125_1280.png" width="25"> Profile Management System
 
+## 📌Demo:
+
 ### 📌Home page:
 <img src="https://user-images.githubusercontent.com/89316018/179353169-491481b5-b90a-4528-ade1-38758d0dcd7c.gif" width="100%">
 
@@ -17,3 +19,28 @@
 
 ### 📌Database:
 <img src="https://user-images.githubusercontent.com/89316018/179353233-6db96c5d-f9d4-49bc-b34d-70047be73b6b.gif" width="100%">
+
+## 📌MYSQL Database:
+```
+CREATE TABLE users (
+  id int(100) NOT NULL,
+  name varchar(100) NOT NULL,
+  email varchar(100) NOT NULL,
+  password varchar(100) NOT NULL,
+  dob date DEFAULT NULL,
+  blood varchar(5) DEFAULT NULL,
+  alergies varchar(100) DEFAULT NULL,
+  weight int(11) DEFAULT NULL,
+  image varchar(100) NOT NULL
+);
+
+ALTER TABLE users
+  ADD PRIMARY KEY (id);
+
+ALTER TABLE users
+  MODIFY id int(100) NOT NULL AUTO_INCREMENT;
+COMMIT;
+```
+
+- Enjoy coding...
+- Thank you...

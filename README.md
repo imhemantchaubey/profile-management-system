@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/imhemantchaubey/profile-management-system)](https://opensource.org/licenses/gpl-license)
+[![GitHub license](https://img.shields.io/github/license/imhemantchaubey/profile-management-system)](https://github.com/imhemantchaubey/profile-management-system/blob/main/LICENSE)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/gpl-license)
 
 # <img src="https://cdn.pixabay.com/photo/2020/07/14/13/07/icon-5404125_1280.png" width="25"> Profile Management System
@@ -18,7 +18,7 @@
 ### 📌Database:
 <img src="https://user-images.githubusercontent.com/89316018/179353233-6db96c5d-f9d4-49bc-b34d-70047be73b6b.gif" height="200" width="auto">
 
-## 📌MYSQL Database:
+### 📌MYSQL Database:
 ```
 CREATE TABLE users (
   id int(100) NOT NULL,

@@ -3,8 +3,6 @@
 
 # <img src="https://cdn.pixabay.com/photo/2020/07/14/13/07/icon-5404125_1280.png" width="25"> Profile Management System
 
-## 📌Demo:
-
 ### 📌Home page:
 <img src="https://user-images.githubusercontent.com/89316018/179353169-491481b5-b90a-4528-ade1-38758d0dcd7c.gif" height="200" width="auto">
 
